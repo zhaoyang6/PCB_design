@@ -1,0 +1,7 @@
+[0118/152345:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0118/152345:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0118/152345:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {2ECB3EC9-DB26-428B-8164-2E95EFBA7732}\BrowserCache to C:\ProgramData\Altium\Altium Designer {2ECB3EC9-DB26-428B-8164-2E95EFBA7732}\old_BrowserCache_000
+[0118/152345:ERROR:cache_creator.cc(129)] Unable to create cache
+[0118/183840:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0118/191553:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0118/201958:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
