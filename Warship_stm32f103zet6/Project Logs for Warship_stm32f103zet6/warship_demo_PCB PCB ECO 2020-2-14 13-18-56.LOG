@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=D4 Old Footprint=DIODE_SOP New Footprint=DIODE_3*5.3
+Change Component Designator: OldDesignator=K2 ON/OFF NewDesignator=K2
