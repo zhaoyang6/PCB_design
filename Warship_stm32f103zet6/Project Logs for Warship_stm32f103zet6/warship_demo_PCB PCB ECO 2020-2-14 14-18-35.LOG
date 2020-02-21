@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=C68-2
+Removed Pin From Net: NetName=GND Pin=C69-2
+Change Component Footprint: Designator=C68 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C69 Old Footprint=0603P New Footprint=0805
+Added Pin To Net: NetName=GND Pin=C68-1
+Added Pin To Net: NetName=GND Pin=C69-1
+Added Pin To Net: NetName=NetC68_2 Pin=C68-2
+Added Pin To Net: NetName=NetC68_2 Pin=C69-2
+Added Pin To Net: NetName=NetC68_2 Pin=R57-2
+Added Pin To Net: NetName=NetC68_2 Pin=R60-1
+Added Net: Name=NetC68_2
