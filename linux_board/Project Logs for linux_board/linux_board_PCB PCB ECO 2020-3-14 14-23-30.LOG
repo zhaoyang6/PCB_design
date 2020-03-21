@@ -1,0 +1,47 @@
+Change Component Designator: OldDesignator=3.3V NewDesignator=VOUT1
+Change Component Designator: OldDesignator=5.0V NewDesignator=VOUT2
+Change Component Designator: OldDesignator=CAMERA NewDesignator=P1
+Change Component Designator: OldDesignator=WWAN NewDesignator=GREEN
+Added Pin To Net: NetName=ENET1_RXER Pin=R13-2
+Added Pin To Net: NetName=ENET2_TXP Pin=R22-2
+Added Pin To Net: NetName=ENET2_TXN Pin=R23-2
+Added Pin To Net: NetName=ENET1_TXP Pin=R57-2
+Added Pin To Net: NetName=ENET1_TXN Pin=R58-2
+Added Pin To Net: NetName=ENET1_RXP Pin=R59-2
+Added Pin To Net: NetName=ENET1_RXN Pin=R60-2
+Added Pin To Net: NetName=ENET2_RXP Pin=R61-2
+Added Pin To Net: NetName=ENET2_RXN Pin=R67-2
+Added Pin To Net: NetName=ENET2_RXER Pin=R70-2
+Added Pin To Net: NetName=ENENT_MDC Pin=R74-2
+Added Pin To Net: NetName=ENENT_MDIO Pin=R75-2
+Added Pin To Net: NetName=USB_OTG2_DP Pin=U10-26
+Added Pin To Net: NetName=ENET1_LED2 Pin=U14-2
+Added Pin To Net: NetName=ENET1_LED1 Pin=U14-3
+Added Pin To Net: NetName=ENET1_RXD1 Pin=U14-7
+Added Pin To Net: NetName=ENET1_RXD0 Pin=U14-8
+Added Pin To Net: NetName=ENET1_RXER Pin=U14-10
+Added Pin To Net: NetName=ENET1_TXEN Pin=U14-16
+Added Pin To Net: NetName=ENET1_TXD0 Pin=U14-17
+Added Pin To Net: NetName=ENET1_TXD1 Pin=U14-18
+Added Pin To Net: NetName=ENET1_TXN Pin=U14-20
+Added Pin To Net: NetName=ENET1_TXP Pin=U14-21
+Added Pin To Net: NetName=ENET1_RXN Pin=U14-22
+Added Pin To Net: NetName=ENET1_RXP Pin=U14-23
+Added Pin To Net: NetName=ENET2_LED2 Pin=U15-2
+Added Pin To Net: NetName=ENET2_LED1 Pin=U15-3
+Added Pin To Net: NetName=ENET2_RXD1 Pin=U15-7
+Added Pin To Net: NetName=ENET2_RXD0 Pin=U15-8
+Added Pin To Net: NetName=ENET2_RXER Pin=U15-10
+Added Pin To Net: NetName=ENET2_TXEN Pin=U15-16
+Added Pin To Net: NetName=ENET2_TXD0 Pin=U15-17
+Added Pin To Net: NetName=ENET2_TXD1 Pin=U15-18
+Added Pin To Net: NetName=ENET2_TXN Pin=U15-20
+Added Pin To Net: NetName=ENET2_TXP Pin=U15-21
+Added Pin To Net: NetName=ENET2_RXN Pin=U15-22
+Added Pin To Net: NetName=ENET2_RXP Pin=U15-23
+Change Net Name : Old Net Name=ENENT_MDC New Net Name=ENET_MDC
+Change Net Name : Old Net Name=ENENT_MDIO New Net Name=ENET_MDIO
+Added Member To Class: ClassName=Sheet2 Member=Component GREEN WWAN
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 9X2
+Added Member To Class: ClassName=Sheet5 Member=Component VOUT1 RS232/RS485
+Added Member To Class: ClassName=Sheet5 Member=Component VOUT2 RS232/RS485
