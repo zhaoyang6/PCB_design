@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=3.3V NewDesignator=VOUT1
+Change Component Designator: OldDesignator=5.0V NewDesignator=VOUT2
+Change Component Designator: OldDesignator=CAMERA NewDesignator=P1
+Change Component Designator: OldDesignator=WWAN NewDesignator=GREEN
