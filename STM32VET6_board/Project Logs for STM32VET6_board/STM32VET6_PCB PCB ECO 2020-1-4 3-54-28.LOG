@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=KEY_1 NewDesignator=Key1
+Change Component Designator: OldDesignator=KEY_2 NewDesignator=Key2
+Change Component Designator: OldDesignator=RESET NewDesignator=key_4
+Change Component Designator: OldDesignator=WKUP NewDesignator=key0
+Added Component: Designator=D4(0603_R)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=LED_1 Pin=D4-2
+Added Member To Class: ClassName=STM32VET6_SCH Member=Component D4 G_LED
+Added Room: Name=STM32VET6_SCH
