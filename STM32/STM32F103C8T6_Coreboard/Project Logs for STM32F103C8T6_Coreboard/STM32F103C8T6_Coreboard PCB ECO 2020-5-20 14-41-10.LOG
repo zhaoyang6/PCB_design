@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=Y1 Old Footprint=XTAL1 New Footprint=MC-306
+Added Pin To Net: NetName=PC15 Pin=Y1-4

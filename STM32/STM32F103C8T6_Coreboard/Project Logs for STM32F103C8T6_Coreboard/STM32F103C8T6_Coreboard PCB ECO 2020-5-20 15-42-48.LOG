@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=5V Pin=U4-1
+Added Pin To Net: NetName=NetR9_1 Pin=U4-2
+Added Pin To Net: NetName=NetR11_1 Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Room: Name=STM32F103C8T6_Coreboard
