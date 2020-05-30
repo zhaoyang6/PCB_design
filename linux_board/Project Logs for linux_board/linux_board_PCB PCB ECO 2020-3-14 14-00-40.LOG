@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=C89-1
-Removed Pin From Net: NetName=GND Pin=JP2-6
-Added Pin To Net: NetName=5V_DCDC Pin=C89-1
-Added Pin To Net: NetName=5V_DCDC Pin=JP2-6
-Added Net: Name=5V_DCDC

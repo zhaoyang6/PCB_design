@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=VCC2.5 Pin=C82-1
-Removed Pin From Net: NetName=GND Pin=C82-2
-Removed Member From Class: ClassName=warship_demo_1 Member=C26
-Change Component Footprint: Designator=C82 Old Footprint=CC6.56.5 New Footprint=0805
-Added Pin To Net: NetName=GND Pin=C82-1
-Added Pin To Net: NetName=VCC2.5 Pin=C82-2
-Added Member To Class: ClassName=warship_demo_1 Member=Component C104 103

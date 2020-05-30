@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=NetC68_2 Pin=U16-3
-Added Pin To Net: NetName=NetC68_2 Pin=U16-5
-Added Pin To Net: NetName=NetC70_1 Pin=U16-8
-Change Net Name : Old Net Name=NetC68_2 New Net Name=Aref
-Change Net Name : Old Net Name=NetC70_1 New Net Name=VDDAMP
