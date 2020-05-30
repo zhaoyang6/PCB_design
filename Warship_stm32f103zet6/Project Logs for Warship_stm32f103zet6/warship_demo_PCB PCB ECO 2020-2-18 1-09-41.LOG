@@ -1,5 +1,0 @@
-Added Component: Designator=R67(0603P)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=IOVDD Pin=R67-1
-Added Pin To Net: NetName=VCC3.3 Pin=R67-2
-Added Member To Class: ClassName=warship_demo_1 Member=Component R67 0R
