@@ -1,0 +1,192 @@
+Change Component Footprint: Designator=C1 Old Footprint=0402 New Footprint=C 0402
+Change Component Footprint: Designator=C2 Old Footprint=0402 New Footprint=C 0402
+Change Component Footprint: Designator=C3 Old Footprint=0402 New Footprint=C 0402
+Change Component Footprint: Designator=C4 Old Footprint=0402 New Footprint=C 0402
+Change Component Footprint: Designator=C5 Old Footprint=0402 New Footprint=C 0402
+Change Component Footprint: Designator=C7 Old Footprint=0402 New Footprint=C 0402
+Change Component Footprint: Designator=C8 Old Footprint=0402 New Footprint=C 0402
+Change Component Footprint: Designator=C9 Old Footprint=0402 New Footprint=C 0402
+Change Component Footprint: Designator=C10 Old Footprint=0402 New Footprint=C 0402
+Change Component Footprint: Designator=C11 Old Footprint=0402 New Footprint=C 0402
+Change Component Footprint: Designator=C12 Old Footprint=0402 New Footprint=C 0402
+Change Component Footprint: Designator=C13 Old Footprint=0402 New Footprint=C 0402
+Change Component Footprint: Designator=C14 Old Footprint=0402 New Footprint=C 0402
+Change Component Comment : Designator=C51 Old Comment=2.2pF New Comment=104
+Change Component Comment : Designator=C52 Old Comment=2.2pF New Comment=104
+Change Component Comment : Designator=C2 Old Comment=18pF New Comment=104
+Change Component Comment : Designator=C3 Old Comment=18pF New Comment=104
+Change Component Comment : Designator=C9 Old Comment=18pF New Comment=104
+Change Component Comment : Designator=C12 Old Comment=18pF New Comment=104
+Change Component Comment : Designator=C14 Old Comment=18pF New Comment=104
+Change Component Comment : Designator=C107 Old Comment=102 New Comment=104
+Change Component Comment : Designator=C1 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C15 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C16 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C21 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C22 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C23 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C25 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C27 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C29 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C31 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C32 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C48 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C49 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C50 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C53 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C54 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C55 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C56 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C59 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C60 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C61 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C62 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C63 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C64 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C68 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C69 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C70 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C71 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C72 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C73 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C74 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C75 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C76 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C77 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C78 Old Comment=224 New Comment=104
+Change Component Comment : Designator=C92 Old Comment=224 New Comment=104
+Added Component: Designator=C6(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C17(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C18(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C19(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C24(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C26(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C28(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C30(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C33(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C37(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C41(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C44(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C46(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C58(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C65(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C67(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C79(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C81(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C84(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C87(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C88(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C89(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C91(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C93(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C95(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C101(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C103(C 0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C6-1
+Added Pin To Net: NetName=NetC5_1 Pin=C6-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C17-1
+Added Pin To Net: NetName=VDD_ARM_CAP Pin=C17-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C18-1
+Added Pin To Net: NetName=VDD_ARM_SOC_IN Pin=C18-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C19-1
+Added Pin To Net: NetName=VDD_ARM_SOC_IN Pin=C19-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C24-1
+Added Pin To Net: NetName=VDD_SOC_CAP Pin=C24-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C26-1
+Added Pin To Net: NetName=VDD_HIGH_IN Pin=C26-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C28-1
+Added Pin To Net: NetName=VDD_HIGH_CAP Pin=C28-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C30-1
+Added Pin To Net: NetName=NetC29_2 Pin=C30-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C33-1
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C33-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C37-1
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C37-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C41-1
+Added Pin To Net: NetName=EMMC_VDDIM Pin=C41-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C44-1
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C44-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C46-1
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C46-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C58-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C58-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C65-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C65-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C67-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C67-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C79-1
+Added Pin To Net: NetName=DC5V Pin=C79-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C81-1
+Added Pin To Net: NetName=NetC81_2 Pin=C81-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C84-1
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C84-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C87-1
+Added Pin To Net: NetName=DC5V Pin=C87-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C88-1
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C88-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C89-1
+Added Pin To Net: NetName=NetC89_2 Pin=C89-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C91-1
+Added Pin To Net: NetName=DC5V Pin=C91-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C93-1
+Added Pin To Net: NetName=NVCC_SD Pin=C93-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C95-1
+Added Pin To Net: NetName=DC5V Pin=C95-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C101-1
+Added Pin To Net: NetName=DC5V Pin=C101-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C103-1
+Added Pin To Net: NetName=NetC103_2 Pin=C103-2
+Added Member To Class: ClassName=IMX6ULL_CORE_sch2 Member=Component C6 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch3 Member=Component C17 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch3 Member=Component C18 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch3 Member=Component C19 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch3 Member=Component C24 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch3 Member=Component C26 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch3 Member=Component C28 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch3 Member=Component C30 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch4 Member=Component C33 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch4 Member=Component C37 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch4 Member=Component C41 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch4 Member=Component C44 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch4 Member=Component C46 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch6 Member=Component C58 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch6 Member=Component C65 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch6 Member=Component C67 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch8 Member=Component C79 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch8 Member=Component C81 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch8 Member=Component C84 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch8 Member=Component C87 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch8 Member=Component C88 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch8 Member=Component C89 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch8 Member=Component C91 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch8 Member=Component C93 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch8 Member=Component C95 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch8 Member=Component C101 104
+Added Member To Class: ClassName=IMX6ULL_CORE_sch8 Member=Component C103 104
