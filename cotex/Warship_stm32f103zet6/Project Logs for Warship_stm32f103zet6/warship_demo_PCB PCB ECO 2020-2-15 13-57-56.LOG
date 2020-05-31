@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=NRF_IRQ Pin=D9-1
+Change Net Name : Old Net Name=NRF_IRQ New Net Name=DM9000_INT
