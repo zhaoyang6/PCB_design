@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RS485_RX Pin=U7-1
+Added Pin To Net: NetName=3V3_DCDC Pin=R20-1
+Added Pin To Net: NetName=RS485_TX Pin=U7-1
+Added Pin To Net: NetName=3V3_DCDC Pin=U7-8
