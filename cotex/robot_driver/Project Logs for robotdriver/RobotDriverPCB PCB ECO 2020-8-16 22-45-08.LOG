@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Q1 Pin=P10-6
+Removed Pin From Net: NetName=Q3 Pin=P11-6
+Added Pin To Net: NetName=Q1 Pin=P10-1
+Added Pin To Net: NetName=5V Pin=P10-2
+Added Pin To Net: NetName=PA7 Pin=P10-3
+Added Pin To Net: NetName=PA6 Pin=P10-4
+Added Pin To Net: NetName=GND Pin=P10-5
+Added Pin To Net: NetName=Q2 Pin=P10-6
+Added Pin To Net: NetName=Q3 Pin=P11-1
+Added Pin To Net: NetName=5V Pin=P11-2
+Added Pin To Net: NetName=PA1 Pin=P11-3
+Added Pin To Net: NetName=PA0 Pin=P11-4
+Added Pin To Net: NetName=GND Pin=P11-5
+Added Pin To Net: NetName=Q4 Pin=P11-6
