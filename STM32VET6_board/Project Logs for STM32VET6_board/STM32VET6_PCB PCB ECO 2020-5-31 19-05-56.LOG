@@ -1,9 +1,0 @@
-Added Pin To Net: NetName=DB2 Pin=U2.1-81
-Added Pin To Net: NetName=DB3 Pin=U2.1-82
-Added Pin To Net: NetName=PD2 Pin=U2.1-83
-Added Pin To Net: NetName=KEY_2 Pin=U2.1-84
-Added Pin To Net: NetName=FSMC_NOE Pin=U2.1-85
-Added Pin To Net: NetName=FSMC_NWE Pin=U2.1-86
-Added Pin To Net: NetName=FSMC_NE1 Pin=U2.1-88
-Added Pin To Net: NetName=PD6 Pin=U2.1-87
-Added Net: Name=PD6

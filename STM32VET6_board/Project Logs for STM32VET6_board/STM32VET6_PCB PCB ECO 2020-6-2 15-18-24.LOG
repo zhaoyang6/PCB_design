@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=CH340_DIR Pin=D7-1
-Removed Pin From Net: NetName=CH340_DIR Pin=U4-13
-Added Pin To Net: NetName=CH340_DIR Pin=U4-12
-Added Pin To Net: NetName=NetD7_1 Pin=D7-1
-Added Pin To Net: NetName=NetD7_1 Pin=U4-13
-Added Net: Name=NetD7_1
