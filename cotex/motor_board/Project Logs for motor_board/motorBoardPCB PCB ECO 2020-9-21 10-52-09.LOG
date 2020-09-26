@@ -1,0 +1,61 @@
+Added Component: Designator=D2(SMA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(SMA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R48(0603R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R49(0603R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R52(0603R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R53(0603R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R54(0603R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R55(0603R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U15(ESP8266)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=R48-1
+Added Pin To Net: NetName=3.3V Pin=R49-1
+Added Pin To Net: NetName=3.3V Pin=R52-1
+Added Pin To Net: NetName=3.3V Pin=R53-2
+Added Pin To Net: NetName=3.3V Pin=R54-2
+Added Pin To Net: NetName=3.3V Pin=R55-1
+Added Pin To Net: NetName=PWMA Pin=U3-23
+Added Pin To Net: NetName=GND Pin=U15-1
+Added Pin To Net: NetName=3.3V Pin=U15-16
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R52-2
+Added Pin To Net: NetName=NetD2_1 Pin=U15-7
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R55-2
+Added Pin To Net: NetName=NetD3_2 Pin=U15-8
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetR48_2 Pin=R48-2
+Added Pin To Net: NetName=NetR48_2 Pin=U15-2
+Added Net: Name=NetR48_2
+Added Pin To Net: NetName=NetR49_2 Pin=R49-2
+Added Pin To Net: NetName=NetR49_2 Pin=U15-4
+Added Net: Name=NetR49_2
+Added Pin To Net: NetName=NetR53_1 Pin=R53-1
+Added Pin To Net: NetName=NetR53_1 Pin=U15-11
+Added Net: Name=NetR53_1
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Pin To Net: NetName=NetR54_1 Pin=U15-9
+Added Net: Name=NetR54_1
+Added Pin To Net: NetName=WIFI_RXD Pin=D2-2
+Added Net: Name=WIFI_RXD
+Added Pin To Net: NetName=WIFI_TXD Pin=D3-1
+Added Net: Name=WIFI_TXD
+Added Member To Class: ClassName=motorBoardSCH Member=Component D2 SS34
+Added Member To Class: ClassName=motorBoardSCH Member=Component D3 SS34
+Added Member To Class: ClassName=motorBoardSCH Member=Component R48 1K
+Added Member To Class: ClassName=motorBoardSCH Member=Component R49 1K
+Added Member To Class: ClassName=motorBoardSCH Member=Component R52 10K
+Added Member To Class: ClassName=motorBoardSCH Member=Component R53 1K
+Added Member To Class: ClassName=motorBoardSCH Member=Component R54 1K
+Added Member To Class: ClassName=motorBoardSCH Member=Component R55 10K
+Added Member To Class: ClassName=motorBoardSCH Member=Component U15 ESP8266
+Added Room: Name=motorBoardSCH
