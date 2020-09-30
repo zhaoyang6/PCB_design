@@ -1,0 +1,19 @@
+Added Component: Designator=U13(USB-MICRO_D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U14(CH340E)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=U13-1
+Added Pin To Net: NetName=GND Pin=U13-5
+Added Pin To Net: NetName=GND Pin=U14-3
+Added Pin To Net: NetName=5V Pin=U14-7
+Added Pin To Net: NetName=Net1_2 Pin=U14-10
+Added Pin To Net: NetName=Net1_2 Pin=U14-10
+Added Net: Name=Net1_2
+Added Pin To Net: NetName=NetU13_2 Pin=U13-2
+Added Pin To Net: NetName=NetU13_2 Pin=U14-2
+Added Net: Name=NetU13_2
+Added Pin To Net: NetName=NetU13_3 Pin=U13-3
+Added Pin To Net: NetName=NetU13_3 Pin=U14-1
+Added Net: Name=NetU13_3
+Added Member To Class: ClassName=motorBoardSCH Member=Component U13 USB
+Added Member To Class: ClassName=motorBoardSCH Member=Component U14 CH340E
