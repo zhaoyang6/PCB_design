@@ -1,0 +1,13 @@
+Added Component: Designator=P27(HDR2.54-LI-10P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PC13 Pin=P27-1
+Added Pin To Net: NetName=PC14 Pin=P27-2
+Added Pin To Net: NetName=PC15 Pin=P27-3
+Added Pin To Net: NetName=PC0 Pin=P27-4
+Added Pin To Net: NetName=PC1 Pin=P27-5
+Added Pin To Net: NetName=PC2 Pin=P27-6
+Added Pin To Net: NetName=PC3 Pin=P27-7
+Added Pin To Net: NetName=PA0 Pin=P27-8
+Added Pin To Net: NetName=PA1 Pin=P27-9
+Added Pin To Net: NetName=PA2 Pin=P27-10
+Added Member To Class: ClassName=motorBoardSCH Member=Component P27 header_1x10
