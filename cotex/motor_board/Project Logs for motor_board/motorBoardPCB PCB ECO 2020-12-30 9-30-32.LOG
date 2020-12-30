@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=3.3V Pin=P25-1
+Removed Pin From Net: NetName=GND Pin=P25-3
+Removed Pin From Net: NetName=3.3V Pin=P25-4
+Removed Pin From Net: NetName=GND Pin=P25-6
+Removed Pin From Net: NetName=BOOT1 Pin=R62-1
+Removed Member From Class: ClassName=motorBoardSCH Member=P25
+Added Component: Designator=P27(HDR2.54-LI-10P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=R61-2
+Added Pin To Net: NetName=3.3V Pin=R62-1
+Added Pin To Net: NetName=BOOT1 Pin=R62-2
+Added Pin To Net: NetName=NetR61_1 Pin=R61-1
+Added Pin To Net: NetName=NetR61_1 Pin=U1-60
+Added Net: Name=NetR61_1
+Added Member To Class: ClassName=motorBoardSCH Member=Component P27 header_1x10
