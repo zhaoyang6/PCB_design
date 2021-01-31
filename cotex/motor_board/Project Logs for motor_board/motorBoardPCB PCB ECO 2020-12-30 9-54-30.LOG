@@ -1,0 +1,61 @@
+Added Component: Designator=P31(HDR2.54-LI-12P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P32(HDR2.54-LI-12P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P33(HDR2.54-LI-12P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P34(HDR2.54-LI-12P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MS21 Pin=P31-1
+Added Pin To Net: NetName=MS22 Pin=P31-2
+Added Pin To Net: NetName=MS23 Pin=P31-3
+Added Pin To Net: NetName=RESET Pin=P31-4
+Added Pin To Net: NetName=MS11 Pin=P31-5
+Added Pin To Net: NetName=MS12 Pin=P31-6
+Added Pin To Net: NetName=MS13 Pin=P31-7
+Added Pin To Net: NetName=PC3 Pin=P31-8
+Added Pin To Net: NetName=PA0 Pin=P31-9
+Added Pin To Net: NetName=PA1 Pin=P31-10
+Added Pin To Net: NetName=PA2 Pin=P31-11
+Added Pin To Net: NetName=PA3 Pin=P31-12
+Added Pin To Net: NetName=PA4 Pin=P32-1
+Added Pin To Net: NetName=PA5 Pin=P32-2
+Added Pin To Net: NetName=PA6 Pin=P32-3
+Added Pin To Net: NetName=PA7 Pin=P32-4
+Added Pin To Net: NetName=PC4 Pin=P32-5
+Added Pin To Net: NetName=ADC Pin=P32-6
+Added Pin To Net: NetName=M2_CH1 Pin=P32-7
+Added Pin To Net: NetName=M2_CH2 Pin=P32-8
+Added Pin To Net: NetName=BOOT1 Pin=P32-9
+Added Pin To Net: NetName=PB10 Pin=P32-10
+Added Pin To Net: NetName=PB11 Pin=P32-11
+Added Pin To Net: NetName=PB12 Pin=P32-12
+Added Pin To Net: NetName=PB13 Pin=P33-1
+Added Pin To Net: NetName=PB14 Pin=P33-2
+Added Pin To Net: NetName=PB15 Pin=P33-3
+Added Pin To Net: NetName=PC6 Pin=P33-4
+Added Pin To Net: NetName=PC7 Pin=P33-5
+Added Pin To Net: NetName=LED2 Pin=P33-6
+Added Pin To Net: NetName=LED1 Pin=P33-7
+Added Pin To Net: NetName=M1_CH2 Pin=P33-8
+Added Pin To Net: NetName=PA9 Pin=P33-9
+Added Pin To Net: NetName=PA10 Pin=P33-10
+Added Pin To Net: NetName=M1_CH1 Pin=P33-11
+Added Pin To Net: NetName=PA13 Pin=P34-1
+Added Pin To Net: NetName=PC10 Pin=P34-2
+Added Pin To Net: NetName=PC11 Pin=P34-3
+Added Pin To Net: NetName=PC12 Pin=P34-4
+Added Pin To Net: NetName=PD2 Pin=P34-5
+Added Pin To Net: NetName=PB3 Pin=P34-6
+Added Pin To Net: NetName=PB4 Pin=P34-7
+Added Pin To Net: NetName=PB5 Pin=P34-8
+Added Pin To Net: NetName=PB6 Pin=P34-9
+Added Pin To Net: NetName=PB7 Pin=P34-10
+Added Pin To Net: NetName=PB8 Pin=P34-11
+Added Pin To Net: NetName=PB9 Pin=P34-12
+Added Pin To Net: NetName=PA12 Pin=P33-12
+Added Net: Name=PA12
+Added Member To Class: ClassName=motorBoardSCH Member=Component P31 header_1x12
+Added Member To Class: ClassName=motorBoardSCH Member=Component P32 header_1x12
+Added Member To Class: ClassName=motorBoardSCH Member=Component P33 header_1x12
+Added Member To Class: ClassName=motorBoardSCH Member=Component P34 header_1x12
