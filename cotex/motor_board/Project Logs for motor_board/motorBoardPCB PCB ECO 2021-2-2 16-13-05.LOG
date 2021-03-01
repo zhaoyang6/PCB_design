@@ -1,5 +1,0 @@
-Added Component: Designator=R58(0603R)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=VMM Pin=R58-1
-Added Pin To Net: NetName=12V Pin=R58-2
-Added Member To Class: ClassName=motorBoardSCH Member=Component R58 0K

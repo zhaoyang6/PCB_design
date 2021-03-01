@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=WIFI_RXD Pin=D2-2
-Removed Pin From Net: NetName=WIFI_TXD Pin=D3-1
-Removed Member From Class: ClassName=motorBoardSCH Member=D2
-Removed Member From Class: ClassName=motorBoardSCH Member=D3
-Added Pin To Net: NetName=WIFI_RXD Pin=R52-2
-Added Pin To Net: NetName=WIFI_TXD Pin=R55-2
-Added Pin To Net: NetName=WIFI_RXD Pin=U15-7
-Added Pin To Net: NetName=WIFI_TXD Pin=U15-8
