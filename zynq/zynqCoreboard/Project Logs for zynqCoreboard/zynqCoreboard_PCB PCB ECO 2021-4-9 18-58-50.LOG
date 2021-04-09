@@ -1,0 +1,324 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U12
+Added Pin To Net: NetName=DDR3_DQS0_N Pin=U3-G3
+Added Pin To Net: NetName=DDR3_DQS2_N Pin=U4-G3
+Added Pin To Net: NetName=PS_POR_B Pin=U13-32
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C1 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C2 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C3 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C4 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C5 0.01uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C6 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C7 47uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C8 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C9 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C10 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C11 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C12 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C13 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C14 100uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C15 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C16 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C17 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C18 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C19 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C20 100uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C21 100uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C22 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C23 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C24 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C25 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C26 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C27 100uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C28 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C29 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C30 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C31 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C32 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C33 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C34 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C35 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C36 47uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C37 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C38 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C39 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C40 47uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C41 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C42 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C43 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C44 100uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C45 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C46 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C47 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C48 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C49 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C50 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C51 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C52 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C53 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C54 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C55 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C56 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C57 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C58 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C59 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C60 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C61 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C62 100uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C63 100uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C64 100uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C65 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C66 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C67 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C68 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C69 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C70 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C71 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C72 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C73 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C74 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C75 100uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C76 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C77 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C78 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C79 100uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C80 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C81 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C82 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C83 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C84 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C85 10uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C86 470nF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C87 0.01uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component C88 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C89 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C90 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C91 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C92 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C93 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C94 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C95 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C96 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C97 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C98 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C99 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C100 10nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C101 10nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C102 10nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C103 10nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C104 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C105 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C106 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C107 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C108 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C109 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C110 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C111 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C112 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C113 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C114 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C115 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C116 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C117 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C118 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C119 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C120 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C121 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C122 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C123 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C124 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C125 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C126 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C127 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C128 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C129 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C130 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C131 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C132 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C133 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C134 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C135 47nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C136 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C137 470nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C138 470nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C139 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C140 470nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C141 470nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C142 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C143 0.01uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C144 10uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C145 100uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C146 10uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C147 10uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C148 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C149 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C150 4.7uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C151 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C152 10uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C153 10uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C154 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C155 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C156 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C157 10uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C158 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C159 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C160 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C161 1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C162 10uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C163 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C164 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C165 22uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C166 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C167 22uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C168 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C169 10uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C170 3.3nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C171 10uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C172 3.3nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C173 22uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C174 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C175 22uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C176 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C177 10uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C178 3.3nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C179 10uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C180 3.3nF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C181 22uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C182 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C183 22uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C184 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C185 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C186 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C187 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C188 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C189 22uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C190 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C191 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C192 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C193 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C194 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C195 0.1uF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C196 18pF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C197 18pF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component C198 10uF
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component J1 CON6
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component KEY1 Button
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component L1 120OHM@100MHz
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component L2 120OHM@100MHz
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component L3 120OHM@100MHz
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component L4 2.2uH 5000mA
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component L5 2.2uH 5000mA
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component L6 2.2uH 5000mA
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component L7 2.2uH 5000mA
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component L8 2.2uH 5000mA
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component LED1 LED
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component LED2 LED
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component LED3 LED
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component LED4 LED
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R1 4.7k
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R2 4.7k
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R3 330
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R4 330
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R5 220
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R6 330
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R7 33R
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R8 1k
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R9 20k
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R10 20k
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R11 20k
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R12 20k
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R13 33R
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R14 20k
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R17 33R
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R20 1k 1%
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R21 1k 1%
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R22 33R
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R23 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R24 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R25 10k
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R26 80.6R 1%
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component R27 80.6R 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R28 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R29 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R30 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R31 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R32 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R33 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R34 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R35 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R36 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R37 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R38 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R39 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R40 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R41 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R42 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R43 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R44 240 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R45 240 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R46 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R47 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R48 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R49 4.7k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R50 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R51 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R52 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R53 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R54 40.2 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R55 80.6 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R56 10K 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R57 10K 1%
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R58 10K
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R59 470R
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R60 10k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R61 10k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R62 10k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R63 10k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R64 10k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R65 10k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R66 10k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R67 4.99k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R68 18.7k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R69 10k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R70 20k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R71 15k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R72 13k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R73 562k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R74 10k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R75 10k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R76 15k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R77 18k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R78 0R
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R79 1.5k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R80 2.49k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R81 4.7k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R82 4.7k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R83 4.7k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R84 4.7k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R85 4.7k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R86 4.7k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R87 4.7k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R88 4.7k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R89 0R
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R90 4.7k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component R91 4.7k
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component TP1 TESTPOINT
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component TP2 TESTPOINT
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component TP3 TESTPOINT
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component TP4 TESTPOINT
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component TP5 TESTPOINT
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component U1 Zynq7010
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component U2 TCM811TERCTR
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component U3 NT5CB128M16IP-DI
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component U4 NT5CB128M16IP-DI
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component U5 TPS51200DRCR
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component U6 KLM8G1GETF
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component U7 W25Q256FV
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component U8 SPX3819M5-3-3
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component U9 TLV62130RGT
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component U10 TLV62130RGT
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component U11 TLV62130RGT
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component U12 TLV62130RGT
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component U13 RTL8211E
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component X1 50MHz
+Added Member To Class: ClassName=ZynqCoreBoard1 Member=Component X2 33.33333MHz
+Added Member To Class: ClassName=ZynqCoreBoard2 Member=Component Y1 25MHz
