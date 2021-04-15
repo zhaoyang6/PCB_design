@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R78 Old Footprint=R0402 New Footprint=R0603
+Added Pin To Net: NetName=DDR3_DQS0_N Pin=U3-G3
+Added Pin To Net: NetName=DDR3_DQS2_N Pin=U4-G3
+Added Pin To Net: NetName=PS_POR_B Pin=U13-32
