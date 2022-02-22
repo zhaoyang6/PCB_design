@@ -1,4 +1,0 @@
-Change Component Footprint: Designator=C189 Old Footprint=C0805 New Footprint=C0603
-Added Pin To Net: NetName=DDR3_DQS1_N Pin=U3-G3
-Added Pin To Net: NetName=DDR3_DQS3_N Pin=U4-G3
-Added Pin To Net: NetName=RXDLY Pin=U13-32
